@@ -21,6 +21,5 @@
   "engines": {
     "node": "4.6.1"
   },
-  "homepage": "https://github.com/cjsheets/FCC-Timestamp-Microservice#readme",
-  "start": "index.js"
+  "homepage": "https://github.com/cjsheets/FCC-Timestamp-Microservice#readme"
 }
