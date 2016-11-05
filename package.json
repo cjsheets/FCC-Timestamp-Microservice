@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cjsheets/FCC-Timestamp-Microservice/issues"
   },
+  "dependencies" :
+  { "strftime" : "latest"
+  },
   "homepage": "https://github.com/cjsheets/FCC-Timestamp-Microservice#readme"
 }
