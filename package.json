@@ -1,9 +1,13 @@
 {
   "name": "fcc-timestamp-microservice",
   "version": "1.0.0",
+  "dependencies" : {
+    "strftime" : "latest"
+  },
   "description": "Simple timestamp server",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -14,9 +18,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cjsheets/FCC-Timestamp-Microservice/issues"
-  },
-  "dependencies" :
-  { "strftime" : "latest"
   },
   "engines": {
     "node": "4.6.1"
