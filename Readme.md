@@ -1,4 +1,4 @@
-# FCC API Projects - Timestamp Microservice
+# API Projects - Timestamp Microservice
 
 This is a NodeJS service that parses dates pased as URL parameters and returns JSON date strings.
 
