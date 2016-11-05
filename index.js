@@ -17,4 +17,4 @@ http.createServer(function(req, res) {
   } catch(e) {
     res.end("{ unix: null, natural: null}");
   }
-}).listen(80, localhost);
+}).listen($PORT, localhost);
